@@ -33,7 +33,7 @@ ul, li {
 	transition: all 0.25s ease 0s;
 }
 #Header .logo a img {
-	width: 80px;
+	width: 60px;
 }
 #Header .menu-wrap {
 	display: inline-block;
@@ -45,7 +45,7 @@ ul, li {
 	cursor: pointer;
 }
 #nav-icon1 {
-  width: 35px;
+  width: 25px;
   height: 25px;
   position: relative;
   -webkit-transform: rotate(0deg);
