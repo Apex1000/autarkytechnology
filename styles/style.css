@@ -226,6 +226,15 @@ body.menu-active #Header .logo {
 	width: 50%;
 	height: 100%;
 }
+#Laptop::before {
+	background: url(../images/improve-business.jpg) no-repeat 0 0;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 100%;
+}
 #Laptop .laptop-text {
 	padding-left: 12px;
 }
@@ -254,6 +263,74 @@ body.menu-active #Header .logo {
 	background-color: #fff;
 	color: #19af83;
 }
+
+
+
+
+
+
+
+#Laptop1 {
+	padding: 45px 0;
+	background-color: #efefef;
+	position: relative;
+}
+#Laptop1::before {
+	background: url(../images/improve-business.jpg) no-repeat 0 0;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 100%;
+}
+#Laptop1::before {
+	background: url(../images/improve-business.jpg) no-repeat 0 0;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 50%;
+	height: 100%;
+}
+#Laptop1 .laptop-text {
+	padding-left: 12px;
+}
+#Laptop1 .laptop-text h2 {
+	font: 500 26px/115% 'Open Sans', sans-serif;
+	color: #333;
+	margin: 0 0 30px;
+}
+#Laptop1 .laptop-text p {
+	font: 400 16px/155% 'Open Sans', sans-serif;
+	color: #333;
+	margin: 0 0 30px;
+}
+#Laptop1 .laptop-text a {
+	display: inline-block;
+	padding: 10px 30px;
+	background-color: #19af83;
+	border-radius: 28px;
+	color: #fff;
+	transition: all 0.25s ease 0s;
+	border: 1px solid #19af83;
+	font: 400 16px/115% 'Open Sans', sans-serif;
+}
+#Laptop1 .laptop-text a:hover {
+	transition: all 0.25s ease 0s;
+	background-color: #fff;
+	color: #19af83;
+}
+
+
+
+
+
+
+
+
+
+
 #Gain {
 	padding: 45px 0;
 }
